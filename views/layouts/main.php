@@ -39,6 +39,11 @@ AppAsset::register($this);
             <a href="<?=Yii::$app->request->baseUrl;?>/details/    ">
                <span>Home</span>
             </a>
+   <a href="<?=Yii::$app->request->baseUrl;?>/details/    ">
+               <span>Contact Us</span>
+            </a>
+
+
               <a href="<?=Yii::$app->request->baseUrl;?>/product/    ">
                <span>Register</span>
             </a>
